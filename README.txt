@@ -41,11 +41,12 @@ Follow instructions
 ++++++++++++++++++++++++++++++++
 Python Script
 Script: pt9.dex
-link:
-https://tinyurl.com/pt9ghost
+look to releases to get the latest updates on subconverter
+for python
 ++++++++++++++++++++++++++++++++
 
 ++++++++++++++++++++++++++++++++
 ProTunnel APK
-https://tinyurl.com/ProTunnel
+look to releases to get latest
+updates
 ++++++++++++++++++++++++++++++++
