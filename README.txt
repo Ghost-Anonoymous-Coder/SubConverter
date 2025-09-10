@@ -36,6 +36,13 @@ Follow instructions
 ++++++++++++++++++++++++++++++++
 
 ++++++++++++++++++++++++++++++++
+Python Script
+Script: pt9.dex
+link:
+https://tinyurl.com/pt9ghost
+++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++
 ProTunnel APK
 https://tinyurl.com/ProTunnel
 ++++++++++++++++++++++++++++++++
