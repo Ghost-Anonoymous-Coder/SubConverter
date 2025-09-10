@@ -7,6 +7,9 @@ Author: 👻Ghost
 Version: v: 1.9
 BetaTester: ScanMan
 Team Anonymous
+Telegram: 
+https://t.me/Tunnel_Ghost
+Join for latest updates!⭐
 +++++++++++++++++++
 
 Supported Apps:
