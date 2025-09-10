@@ -1,0 +1,31 @@
+Android 
+App: Termux 
+Coder: 👻Ghost
+
+Script: python 
+
+Modules Required 
+pip install art
+
+1• Make Folder in downloads folder
+name it anything of your choice.
+2• Download the script 
+pt9.dex place it in the folder you 
+created.
+
+Open Termux cd to the folder dir 
+that you made.
+
+If you dont have python installed 
+then look to google there are many 
+information on that.
+
+Place your vmess's in a txt file 
+in the same folder as the script
+
+Now 
+python pt9.dex 
+
+Follow instructions:
+
+
