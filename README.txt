@@ -8,6 +8,8 @@ ClashMeta | ClashX
 HiddyFi Ng | Clash
 +++++++++++++++++++
 
+🎭Anonymous
+
 Platforms:
 Pc | Android | iOS 
 Linux | Ubuntu LTS
