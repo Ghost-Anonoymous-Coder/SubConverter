@@ -17,5 +17,5 @@ Linux Mint Latest Version only
 
 Windows 7/8/8.1/10/11 
 
-Look To Readme.txt in folder 
+Look To requirements.txt in 
 Follow instructions 
